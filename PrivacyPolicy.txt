@@ -1,0 +1,30 @@
+Privacy Policy
+Welcome to the privacy policy. Thank you for taking the time to read it!
+
+We thank you for trusting us with your information and we intend to maintain this trust. This policy describes our privacy practices in a language that is easy to understand and keeps legal and technical terminology to a minimum.
+
+First, personal information:
+
+This app does not collect or transmit any personally identifiable information. Services that work with this application at the same time do not use, store, encrypt or disclose any personal information.
+
+Second, technical information:
+
+This application does not send or store any technical information (such as the IP address contained in the HTTP request sent by the application). However, we reserve the right to collect relevant technical information in future versions to provide you with better service. We will update this agreement at that time.
+
+Third, sharing and advertising:
+
+The ads used in this app have filtered bad information for children, but if there is stimulating content for individual children, you can uninstall the app to protect your child's health. The sharing mechanism used by this app can share content to social networks, and parents are required to supervise the social networking platform associated with the mobile device.
+
+Fourth, third-party services:
+
+If the application uses third party services, the use of the information by these services is not included in this agreement. You will be well aware of the third party services used and we will endeavor to provide the least information to third parties.
+
+V. Report violation or get more information:
+
+If you wish to report any violations of this Agreement or need to obtain more information about this application, please send an email to: jiudiancxjl@sina.com.
+
+6. Applicable law
+
+The above provisions will apply to the laws of the People's Republic of China and all disputes will be referred to the people's court where the website is located.
+
+In the event of a conflict between the Terms of Service and the laws of the People's Republic of China, these terms will be reinterpreted in full accordance with the law, while other terms remain binding.
